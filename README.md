@@ -1,6 +1,6 @@
 Teste Caixa Branca
 
- Grafo De Fluxo
+ **Grafo De Fluxo**
 
 ```mermaid
 graph TD
@@ -29,3 +29,14 @@ Caminho 1 = 1; 2; 3; 4; 6;
 Caminho 2 = 1; 2; 3; 6;
 
 Caminho 3 = 1; 2; 5; 6;
+
+
+
+
+---
+
+**Planilha Teste Caixa Branca**
+
+![Artefato de revisão](img/planilha.png)
+
+
